@@ -1,0 +1,10 @@
+C:\Users\Sebastian\Desktop\Draw_Shapes\Draw_Shapes\bin\Debug\Draw_Shapes.exe.config
+C:\Users\Sebastian\Desktop\Draw_Shapes\Draw_Shapes\bin\Debug\Draw_Shapes.exe
+C:\Users\Sebastian\Desktop\Draw_Shapes\Draw_Shapes\bin\Debug\Draw_Shapes.pdb
+C:\Users\Sebastian\Desktop\Draw_Shapes\Draw_Shapes\obj\Debug\Draw_Shapes.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Draw_Shapes\Draw_Shapes\obj\Debug\Draw_Shapes.Form1.resources
+C:\Users\Sebastian\Desktop\Draw_Shapes\Draw_Shapes\obj\Debug\Draw_Shapes.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\Draw_Shapes\Draw_Shapes\obj\Debug\Draw_Shapes.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\Draw_Shapes\Draw_Shapes\obj\Debug\Draw_Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Draw_Shapes\Draw_Shapes\obj\Debug\Draw_Shapes.exe
+C:\Users\Sebastian\Desktop\Draw_Shapes\Draw_Shapes\obj\Debug\Draw_Shapes.pdb
